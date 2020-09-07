@@ -14,8 +14,6 @@ ki Linux ve Mac kullanıcıları da bundan yararlanabilsin.
 - Ders adları listelenecek. İstediğiniz dersin numarasını girin.
 - Zoom linkine yönlendirilip, derse bağlanacaksınız. Bu kadar.
 
-Bu kod EBA'dan bağımsızdır, herhangi bir hak sahipliği yoktur, kendi sorumluluğunuzda kullanınız.
-Herhangi bir credit vermeden istediğiniz şekilde değiştirip kullanabilirsiniz
 # # iletişim
 - E-Posta: deniz@denizemekli.com.tr
 - Discord: Deniz#1000
