@@ -6,12 +6,14 @@ Bağlantı için kendi uygulamalarını kullanıyorlar, fakat Linux, Mac, Pardus
 Çok basit bir şekilde Zoom uygulamasını başlatmak yerine kendi logoları olan Zoom uygulamalarına yönlendirip,
 ordan Zoom'u başlatıyorlar. Bunun yerine id ve token'i alıp direk Zoom'u başlatan bir script yazdım
 ki Linux ve Mac kullanıcıları da bundan yararlanabilsin.
-1- Zoom uygulamasını cihazınıza kurun.
-2- https://ders.eba.gov.tr/ders/ adresine gidin, gerekli girişleri yapın, Canlı Dersler sayfasına gelin
-3- F12 tuşuna basın, Console sekmesine geçin
-4- Bu kodu kopyalayıp yapıştırın, enter'a basın. (Firefox'da kopyala yapıştır uyarısı verebilir, gerekenleri yapın)
-5- Ders adları listelenecek. İstediğiniz dersin numarasını girin.
-    Zoom linkine yönlendirilip, derse bağlanacaksınız. Bu kadar.
+
+- Zoom uygulamasını cihazınıza kurun.
+- https://ders.eba.gov.tr/ders/ adresine gidin, gerekli girişleri yapın, Canlı Dersler sayfasına gelin
+- F12 tuşuna basın, Console sekmesine geçin
+- Bu kodu kopyalayıp yapıştırın, enter'a basın. (Firefox'da kopyala yapıştır uyarısı verebilir, gerekenleri yapın)
+- Ders adları listelenecek. İstediğiniz dersin numarasını girin.
+- Zoom linkine yönlendirilip, derse bağlanacaksınız. Bu kadar.
+
 Bu kod EBA'dan bağımsızdır, herhangi bir hak sahipliği yoktur, kendi sorumluluğunuzda kullanınız.
 Herhangi bir credit vermeden istediğiniz şekilde değiştirip kullanabilirsiniz
 # # iletişim
