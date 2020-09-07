@@ -10,7 +10,7 @@ ki Linux ve Mac kullanıcıları da bundan yararlanabilsin.
 - Zoom uygulamasını cihazınıza kurun.
 - https://ders.eba.gov.tr/ders/ adresine gidin, gerekli girişleri yapın, Canlı Dersler sayfasına gelin
 - F12 tuşuna basın, Console sekmesine geçin
-- Bu kodu kopyalayıp yapıştırın, enter'a basın. (Firefox'da kopyala yapıştır uyarısı verebilir, gerekenleri yapın)
+- [eba-canli-ders.js](https://github.com/denizemekli/Eba-Canli-Ders/blob/master/eba-canli-ders.js) kodunu kopyalayıp yapıştırın, enter'a basın. (Firefox'da kopyala yapıştır uyarısı verebilir, gerekenleri yapın)
 - Ders adları listelenecek. İstediğiniz dersin numarasını girin.
 - Zoom linkine yönlendirilip, derse bağlanacaksınız. Bu kadar.
 
