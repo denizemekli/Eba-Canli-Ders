@@ -17,6 +17,6 @@ ki Linux ve Mac kullanıcıları da bundan yararlanabilsin.
 Bu kod EBA'dan bağımsızdır, herhangi bir hak sahipliği yoktur, kendi sorumluluğunuzda kullanınız.
 Herhangi bir credit vermeden istediğiniz şekilde değiştirip kullanabilirsiniz
 # # iletişim
-E-Posta: deniz@denizemekli.com.tr
-Discord: Deniz#1000
-Instagram: deniz_emekli
+- E-Posta: deniz@denizemekli.com.tr
+- Discord: Deniz#1000
+- Instagram: deniz_emekli
